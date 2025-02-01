@@ -5,7 +5,7 @@
 ## 👋 Hi, I’m Prathiksha
 A passionate *Full Stack Developer* with expertise in *React.js, django , MongoDB, and MySQL*. I specialize in building dynamic, responsive, and user-friendly web applications.  
 
-💼 *Currently working as a django Developer and Trainer* at *T4TEQ Software Solutions*, where I:  
+💼 *Currently working as a django Developer and Technical Trainer* at *T4TEQ Software Solutions*, where I:  
 ✔ Develop and maintain web applications using modern frontend frameworks.  
 ✔ Implement server-side logic and APIs for seamless backend communication.  
 ✔ Design scalable databases using MongoDB and MySQL.  
