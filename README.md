@@ -28,7 +28,7 @@ A passionate *Full Stack Developer* with expertise in *React.js, django , MongoD
 *Backend & Database:*  
 ![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=Python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-339933?style=for-the-badge&logo=C&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=Java&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=white)
 
 
 *Design & Tools:*  
