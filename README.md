@@ -39,7 +39,7 @@ A passionate *Full Stack Developer* with expertise in *React.js, django , MongoD
 
 ## 📊 GitHub Statistics  
 
-![Prathiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathiksha38&show_icons=true&hide_title=true&count_private=true)
+![Prathiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathiksha38&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathiksha38&layout=compact&theme=radical)
 ---
 
