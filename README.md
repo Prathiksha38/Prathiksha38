@@ -1,6 +1,6 @@
 # 🚀 Prathiksha R | Full Stack Developer  
 
-![Profile Banner](https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif)  
+![Profile Banner](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)  
 
 ## 👋 Hi, I’m Prathiksha
 A passionate *Full Stack Developer* with expertise in *React.js, django , MongoDB, and MySQL*. I specialize in building dynamic, responsive, and user-friendly web applications.  
@@ -46,16 +46,9 @@ A passionate *Full Stack Developer* with expertise in *React.js, django , MongoD
 ## 🤝 Connect with Me  
 📫 *Reach me at:* prathiksha383@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravind485528) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathiksha38) 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind-portfolio-0404.netlify.app/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sample-portfolio-aravind0404.netlify.app/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-3-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://aravind2504.netlify.app/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://reactbits-portfolio.netlify.app/)
-  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-prathi.netlify.app/)
 
 ---
 
